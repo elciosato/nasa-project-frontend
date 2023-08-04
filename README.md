@@ -26,10 +26,3 @@ The following technologies and tools were used in the development of this applic
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [morgan](https://www.npmjs.com/package/morgan)
 
-## Installation
-
-To run this application locally, make sure you have the following prerequisites installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/)
