@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Nasa Project App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Disclaimer
 
-## Available Scripts
+This application is a project developed during Udemy course and is **not an official site**. It is **not affiliated with NASA or SpaceX** in any way. The purpose of this application is solely for educational purposes and does not claim any endorsement or authorization from NASA or SpaceX.
 
-In the project directory, you can run:
 
-### `yarn start`
+## Frontend
+The frontend is developed in React and you can find the source code [here](https://github.com/elciosato/nasa-project-frontend). You can also [try it here](https://nasa-project-frontend.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Backend
+The backend is developed in Node.js and you can find the source code [here](https://github.com/elciosato/nasa-project-backend).
 
-### `yarn test`
+## Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The following technologies and tools were used in the development of this application:
 
-### `yarn build`
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Csv-parse](https://www.npmjs.com/package/csv-parse)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [morgan](https://www.npmjs.com/package/morgan)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this application locally, make sure you have the following prerequisites installed:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/)
