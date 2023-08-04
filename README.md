@@ -12,7 +12,7 @@ The frontend is developed in React and you can find the source code [here](https
 ## Backend
 The backend is developed in Node.js and you can find the source code [here](https://github.com/elciosato/nasa-project-backend).
 
-## Technologies
+### Technologies
 
 The following technologies and tools were used in the development of this application:
 
